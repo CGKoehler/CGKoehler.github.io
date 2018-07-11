@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 title:  "Carlos Koehler"
 description:      "Science is fun"
 logo:             logo3.png
 disqus_shortname: notavailable
-=======
-title:            "Carlos blog"
-description:      "Science is fun"
-logo:             logo3.png
-disqus_shortname: notavailable
->>>>>>> notavailable
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
@@ -18,11 +11,6 @@ dropcap:			true
 
 # Owner/author information
 owner:
-<<<<<<< HEAD
-  name:           Carlos Koehler
-  avatar:         ckoehler.jpg
-  email:          carlos.cgsk@email.com
-=======
   name:           Carlos Koehler
   avatar:         ckoehler.jpg
   email:          carlos.cgsk@gmail.com
@@ -54,12 +42,6 @@ links:
   - title: Categories
     url: /categories
   - title: About
-<<<<<<< HEAD
-    url: /carlos-koehler
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Sao_Paulo
-=======
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -89,13 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-<<<<<<< HEAD
   siteurl: 'http://CGKoehler.github.io/'
   relativeLinks: 'http://CGKoehler.github.io/links.jsonp'
-=======
-  siteurl: 'http://CGKoehler.github.io/'
-  relativeLinks: 'http://CGKoehler.github.io/links.jsonp'
->>>>>>> hmfaysal/gh-pages
   media: 'images'
   metadata:
     _posts:

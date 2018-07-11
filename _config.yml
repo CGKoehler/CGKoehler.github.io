@@ -116,14 +116,14 @@ prose:
               value: personal
             - name: "Engineering"
               value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
+            - name: "Optimization"
+              value: optimization
+            - name: "Metaheuristics"
+              value: metaheuristics
             - name: "Interesting"
               value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Programming"
+              value: Programming
           alterable: true
       - name: "tags"
         field:

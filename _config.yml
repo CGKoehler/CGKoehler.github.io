@@ -1,18 +1,32 @@
+<<<<<<< HEAD
 title:            Carlos Koehler
 description:      "Science is fun"
 logo:             logo3.png
 disqus_shortname: 401
+=======
+title:            Notepad
+description:      "Blogging is fun"
+logo:             logo.png
+disqus_shortname: hmfaysal
+>>>>>>> hmfaysal/gh-pages
 share:            true
+dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-#url:        	  http://hmfaysal.github.io
+url:        	  /Notepad
 
 # Owner/author information
 owner:
+<<<<<<< HEAD
   name:           Carlos Koehler
   avatar:         hmfaysal.jpg
   email:          carlos.cgsk@email.com
+=======
+  name:           Hossain Mohd Faysal
+  avatar:         hmfaysal.jpg
+  email:          hmfaysal@alum.mit.edu
+>>>>>>> hmfaysal/gh-pages
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
@@ -24,7 +38,7 @@ owner:
   google_plus:    https://plus.google.com/u/0/105036826921544853129
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -41,10 +55,17 @@ links:
   - title: Categories
     url: /categories
   - title: About
+<<<<<<< HEAD
     url: /carlos-koehler
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
+=======
+    url: /about
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Dhaka
+>>>>>>> hmfaysal/gh-pages
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -70,8 +91,13 @@ kramdown:
 
 prose:
   rooturl: '_posts'
+<<<<<<< HEAD
   siteurl: 'http://CGKoehler.github.io/'
   relativeLinks: 'http://CGKoehler.github.io/links.jsonp'
+=======
+  siteurl: 'http://hmfaysal.github.io/Notepad/'
+  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+>>>>>>> hmfaysal/gh-pages
   media: 'images'
   metadata:
     _posts:

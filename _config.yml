@@ -2,31 +2,30 @@
 title:            Carlos Koehler
 description:      "Science is fun"
 logo:             logo3.png
-disqus_shortname: 401
+disqus_shortname: notavailable
 =======
-title:            Notepad
-description:      "Blogging is fun"
-logo:             logo.png
-disqus_shortname: hmfaysal
->>>>>>> hmfaysal/gh-pages
+title:            Carlos blog
+description:      "Science is fun"
+logo:             logo3.png
+disqus_shortname: notavailable
+>>>>>>> notavailable
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /Notepad
+#url:        	  /
 
 # Owner/author information
 owner:
 <<<<<<< HEAD
   name:           Carlos Koehler
-  avatar:         hmfaysal.jpg
+  avatar:         ckoehler.jpg
   email:          carlos.cgsk@email.com
 =======
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
->>>>>>> hmfaysal/gh-pages
+  name:           Carlos Koehler
+  avatar:         ckoehler.jpg
+  email:          carlos.cgsk@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
@@ -64,8 +63,7 @@ timezone:    America/Sao_Paulo
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
->>>>>>> hmfaysal/gh-pages
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -95,8 +93,8 @@ prose:
   siteurl: 'http://CGKoehler.github.io/'
   relativeLinks: 'http://CGKoehler.github.io/links.jsonp'
 =======
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://CGKoehler.github.io/'
+  relativeLinks: 'http://CGKoehler.github.io/links.jsonp'
 >>>>>>> hmfaysal/gh-pages
   media: 'images'
   metadata:

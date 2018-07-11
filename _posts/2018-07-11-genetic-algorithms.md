@@ -5,7 +5,7 @@ title: Genetic Algorithm
 mathjax: false
 featured: true
 comments: false
-headline: Making blogging easier for masses
+headline: A little review of genetic algorithms
 categories:
   - personal
   - webdevelopment

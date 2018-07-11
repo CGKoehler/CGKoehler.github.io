@@ -1,7 +1,7 @@
-title:            Notepad
-description:      "Blogging is fun"
+title:            Carlos Koehler
+description:      "Science is fun"
 logo:             logo3.png
-disqus_shortname: hmfaysal
+disqus_shortname: 401
 share:            true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
@@ -10,18 +10,18 @@ share:            true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Carlos Koehler
   avatar:         hmfaysal.jpg
-  email:          you@email.com
+  email:          carlos.cgsk@email.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        CGKoehler
+  facebook:       401
+  github:         401    
+  instagram:      401
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/0/105036826921544853129
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -44,7 +44,7 @@ links:
     url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Sao_Paulo
 future:      true
 highlighter: pygments
 markdown:    kramdown
